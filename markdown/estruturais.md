@@ -6,10 +6,10 @@
 
 ### 7 Padrões
 
-1. [-] Adapter
-2. [-] Bridge
-3. [-] Composite
-4. [-] Decorator
-5. [-] Façade
-6. [-] Flyweight
-7. [-] Proxy
+1. [ ] Adapter
+2. [ ] Bridge
+3. [ ] Composite
+4. [ ] Decorator
+5. [ ] Façade
+6. [ ] Flyweight
+7. [ ] Proxy
