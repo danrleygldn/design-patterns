@@ -6,7 +6,7 @@
 
 ### 5 Padrões
 
-1. [ ] Abstract Factory
+1. [x] Abstract Factory
 2. [ ] Builder
 3. [ ] Factory Method
 4. [ ] Prototype
