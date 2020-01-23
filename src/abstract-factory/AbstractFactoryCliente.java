@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Classe abstrata para organizar a família dos Pets
+// Classe abstrata para organizar a familia dos Pets
 abstract class Pet {
     
     private String nome;
@@ -14,7 +14,7 @@ abstract class Pet {
     }
 }
 
-// Classe abstrata para organizar a família dos Gatos
+// Classe abstrata para organizar a familia dos Gatos
 abstract class Gato extends Pet {
     
     public Gato(String nome) {
@@ -22,7 +22,7 @@ abstract class Gato extends Pet {
     }
 }
 
-// Classe abstrata para organizar a família dos Cachorros
+// Classe abstrata para organizar a familia dos Cachorros
 abstract class Cachorro extends Pet {
     
     public Cachorro(String nome) {
@@ -63,14 +63,14 @@ class Pastor extends Cachorro {
     }
 }
 
-// Interface com estrutura para as Fábricas
+// Interface com estrutura para as Fabricas
 interface ModeloPet {
 
     public Cachorro getCachorro();
     public Gato getGato();
 }
 
-// Classe da Fábrica de construção dos Pets de Companhia
+// Classe da Fabrica de construcao dos Pets de Companhia
 class FactoryCompanhia implements ModeloPet {
     public Cachorro getCachorro() {
         return new Shitzu();
@@ -81,7 +81,7 @@ class FactoryCompanhia implements ModeloPet {
     }
 }
 
-// Classe da Fábrica de construção dos Pets de Guarda
+// Classe da Fabrica de construcao dos Pets de Guarda
 class FactoryGuarda implements ModeloPet {
 
     public Cachorro getCachorro() {
@@ -94,11 +94,11 @@ class FactoryGuarda implements ModeloPet {
 }
 
 // Classe com um exemplo de uso pelo cliente
-class AbstractFactory {
+class AbstractFactoryCliente {
     private Scanner scanner = new Scanner(System.in);
     
     public static void main(String[] args) {
-        new AbstractFactory().executar();
+        new AbstractFactoryCliente().executar();
     }
     
     public void executar() {

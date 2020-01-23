@@ -7,3 +7,9 @@ Este repositório contém os códigos e anotações gerados [neste curso](https:
 - [Padrões Criacionais](./markdown/criacionais.md)
 - [Padrões Estruturais](./markdown/estruturais.md)
 - [Padrões Comportamentais](./markdown/comportamentais.md)
+
+## Compilando e executando os codigos _.java_
+
+Todos os arquivos **.java** possuem todo o código do exemplo. Para executar abra o editor BlueJ, compile o arquivo e execute a class main. Abaixo, um exemplo disto, em poucos cliques.
+
+![](./assets/bluej-compiler-and-exec.gif)
