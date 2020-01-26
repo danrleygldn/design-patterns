@@ -11,3 +11,6 @@
 3. [ ] Factory Method
 4. [ ] Prototype
 5. [ ] Singleton
+
+| Abstract Factory  ![](../assets/00-abstract-factory.png) | Builder  ![](../assets/01-builder.png) |
+|:--------------------------------------------------------:|:--------------------------------------:|
