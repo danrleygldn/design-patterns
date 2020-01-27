@@ -2,7 +2,7 @@
 
 ## Padrões Comportamentais
 
->"Especificamente voltados para a comunicação entre os objetos."
+>_"Especificamente voltados para a comunicação entre os objetos."_
 
 ### 11 Padrões
 

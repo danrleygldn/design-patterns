@@ -2,7 +2,7 @@
 
 ## Padrões Estruturais
 
->"Descreve como classes e objetos podem ser combinadas para formar grandes estruturas."
+>_"Descreve como classes e objetos podem ser combinadas para formar grandes estruturas."_
 
 ### 7 Padrões
 
