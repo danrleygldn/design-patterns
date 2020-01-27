@@ -14,7 +14,7 @@
 
 <br/>
 
-*Clique no **Diagrama de Classe UML** para ver os código
+*Clique no **Diagrama de Classe UML** para ver a implementação em Java
 
 | Abstract Factory  [![](../assets/00-abstract-factory.png) ](../src/abstract-factory/AbstractFactoryCliente.java ) | Builder  [![](../assets/01-builder.png) ](../src/builder/BuilderCliente.java ) |
 |:-----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
