@@ -8,9 +8,11 @@
 
 1. [x] Abstract Factory
 2. [x] Builder
-3. [ ] Factory Method
+3. [x] Factory Method
 4. [ ] Prototype
 5. [ ] Singleton
 
 | Abstract Factory  ![](../assets/00-abstract-factory.png) | Builder  ![](../assets/01-builder.png) |
 |:--------------------------------------------------------:|:--------------------------------------:|
+|   Factory Method   ![](../assets/02-factory-method.png)  |                                        |
+|                                                          |                                        |
