@@ -5,8 +5,8 @@ Este repositório contém os códigos e anotações gerados [neste curso](https:
 ## Os 23 padrões, na prática, em Java
 
 - [Padrões Criacionais](./markdown/criacionais.md)
-- [Padrões Estruturais](./markdown/estruturais.md)
-- [Padrões Comportamentais](./markdown/comportamentais.md)
+- Padrões Estruturais
+- Padrões Comportamentais
 
 ## Compilando e executando os codigos _.java_
 
